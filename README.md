@@ -1,1 +1,1 @@
-# AngulaNpmCheatsheet
+# Angula npm cheatsheet
