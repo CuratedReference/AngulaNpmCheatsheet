@@ -1,0 +1,8 @@
+
+npm install --global windows-build-tools
+
+npm i
+
+npm update
+
+install -g @angular/cli
